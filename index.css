@@ -374,6 +374,10 @@ ul li a:hover{
     background-color: #fff;
     border-radius: 50%;
 }
+.social-icon i:hover{
+     color: rgb(255, 0, 0);
+     background-color: green;
+}
 
 .twinty-six{
 
