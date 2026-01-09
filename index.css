@@ -57,7 +57,11 @@ ul li a:hover{
     padding: 12px 16px;
     border-radius: 5px;
     
+}
 
+.btn:hover{
+    background-color: #001931;
+    transition: all ease-in .2s;
 }
 
 .bg-img {
