@@ -36,6 +36,10 @@ ul li a {
   font-weight: 500;   
 }
 
+ul li a:hover{
+
+    color: red;
+}
 
 .flex1 {
       display: flex;
@@ -59,7 +63,7 @@ ul li a {
 .bg-img {
     height: 674px;
     padding: 70px 120px 134px 120px;
-    background:url("/public/images/bg.png")
+    background:url("./public/images/bg.png")
 
 }
 .btc{
